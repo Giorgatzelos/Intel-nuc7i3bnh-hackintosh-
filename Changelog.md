@@ -8,7 +8,7 @@ English
 **Update**
     - Fixed CardReader
     - Added Port Mapping USBMap.kext for MacBookPro14,2
-    Enabled Internal Mic-
+    - Enabled Internal Mic
     
     
 - **02-19-2023**
