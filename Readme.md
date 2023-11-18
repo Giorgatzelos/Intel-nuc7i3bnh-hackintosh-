@@ -81,7 +81,7 @@ Other hardware specifications:
 
 | ![](Wiki/Images/CPU_7100U.png) |
 | :---:|
-| **Single-Core** Score **752** ~~~~~~~~~~~~~~~~~~~~~~ **Multi-Core** Score **1429** |
+| **Single-Core** Score **752**   **Multi-Core** Score **1429** |
 
 
 </details>
@@ -105,9 +105,9 @@ For privacy reasons, all SMBIOS information has been wiped out in the configurat
 - According to [OpenCore Official Configuration](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf), you are highly recommended to inject the **original Windows system UUID** to `PlatformInfo -> Generic - >SystemUUID` in `EFI/OC/config.plist`: run `wmic csproduct get UUID` command in Windows PowerShell app
 
 ## Changelog
-USBport Mapping
-Card Reader
-Internal Mic
+- USBport Mapping
+- Card Reader
+- Internal Mic
 
 #### 2023 - November - 18
 See [**Current status**](Changelog.md)
