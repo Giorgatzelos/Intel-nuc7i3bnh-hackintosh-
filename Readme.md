@@ -27,7 +27,7 @@ This EFI is built and tested on **Monterey**: for the moment I stick with macOS 
 - Read the entire README before you start.
 - I am not responsible for any damages you may cause.
 - Should you find an error or improve anything — whether in the config or in the documentation — please consider opening an issue or pull request.
-- **Complete EFI packs** are available in the [**Releases**]([https://github.com/Giorgatzelos/Intel-nuc7i3bnh-hackintosh-/releases]) page (please, refer to the rightside menu).
+- **Complete EFI packs** are available in the [**Releases**](https://github.com/Giorgatzelos/Intel-nuc7i3bnh-hackintosh-/releases) page (please, refer to the rightside menu).
 - Please **do not clone or download** the main branch for daily use: it may include **unstable code** just because it is my repository.
 
 If you find this bootloader configuration useful, consider **giving** it **a star** to make it more visible.
