@@ -5,7 +5,7 @@ English
 
 	Update to **macOS Monterey 12.2.1 (21D62)**
 
-**Update**
+    **Update**
     - Fixed CardReader
     - Added Port Mapping USBMap.kext for MacBookPro14,2
     - Enabled Internal Mic
