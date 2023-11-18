@@ -236,16 +236,6 @@ That will make Windows use universal time instead of local time.
 Then update your clock via the built-in internet time setting to update the time.
 </details>
 
-<details>  
-<summary><strong>Setting up BenQ PD2500Q speakers as default audio output device</strong></summary>
-
-- Open **Audio MIDI Setup**.app in your `/Applications/Utilities` folder
-- Select the **Output** tab in the middle
-- Then, from the side list, select the output you want as use as default --> **DisplayPort**; then right-click the entry and select:
-	- "(speaker icon)": Use this device for sound output;
-	- "(macface icon)": Play alerts and sound effects through this device.
-</details>
-
 ## Update tracker
 
 | Item | Version | Remark |
