@@ -81,7 +81,7 @@ Other hardware specifications:
 
 | ![](Wiki/Images/CPU_7100U.png) |
 | :---:|
-| **Single-Core** Score **595** ~~~~~~~~~~~~~~~~~~~~~~ **Multi-Core** Score **1384** |
+| **Single-Core** Score **752** ~~~~~~~~~~~~~~~~~~~~~~ **Multi-Core** Score **1429** |
 
 
 </details>
