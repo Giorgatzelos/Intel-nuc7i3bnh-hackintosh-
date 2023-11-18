@@ -1,6 +1,9 @@
 # Intel NUC7i3BNH Changelog
 
 English
+- **11-18-2023**
+
+	Update to **macOS Monterey 12.2.1 (21D62)**
 
 - **02-19-2023**
 
