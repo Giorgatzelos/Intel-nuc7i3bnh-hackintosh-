@@ -5,8 +5,8 @@
 <p align="center">
 <a href="https://downloadcenter.intel.com/it/product/95066/Kit-Intel-NUC-NUC7i3BNH" target="_blank"><img src="https://img.shields.io/badge/BIOS-BNKBL357-red.svg" /></a>
 <a href="LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-purple.svg" /></a>
-<a href="https://github.com/profzei/NUC7i3BNH/releases" target="_blank"><img src="https://img.shields.io/badge/Download-Releases-blue.svg" /></a>
-<a href="https://github.com/profzei/NUC7i3BNH/wiki" target="_blank"><img src="https://img.shields.io/badge/Support-Wiki-green.svg" /></a>
+<a href="https://github.com/Giorgatzelos/Intel-nuc7i3bnh-hackintosh-/releases" target="_blank"><img src="https://img.shields.io/badge/Download-Releases-blue.svg" /></a>
+<a href="https://github.com/Giorgatzelos/Intel-nuc7i3bnh-hackintosh-/wiki" target="_blank"><img src="https://img.shields.io/badge/Support-Wiki-green.svg" /></a>
 </p>
 
 
