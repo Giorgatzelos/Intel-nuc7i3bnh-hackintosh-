@@ -263,8 +263,8 @@ Then update your clock via the built-in internet time setting to update the time
 | [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.1.0 | Fix for NVMe SSDs [Inactive] | 
 | [RestrictEvents](https://github.com/acidanthera/RestrictEvents/releases) | 1.1.3 | Block unwanted processes |
 | [VirtualSMC + plugins](https://github.com/acidanthera/VirtualSMC/releases) | 1.3.2 | SMC chip emulation |
-
-| [RealtekCardReaderFriend](https://github.com/0xFireWolf/RealtekCardReaderFriend/releases)) | 9.0 | Micro SD card reader driver |
+| [RealtekCardReader](https://github.com/0xFireWolf/RealtekCardReader/releases) | 0.9.7 | Micro SD card reader driver |
+| [RealtekCardReaderFriend](https://github.com/0xFireWolf/RealtekCardReaderFriend/releases) | 9.0 | Micro SD card reader driver |
 | [USBMap.kext] | Inject USB ports |
 | [VoltageShift](https://github.com/sicreative/VoltageShift) | 1.25 | Undervoltage tool [Inactive] |
 
