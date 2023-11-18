@@ -5,6 +5,12 @@ English
 
 	Update to **macOS Monterey 12.2.1 (21D62)**
 
+**Update**
+    - Fixed CardReader
+    - Added Port Mapping USBMap.kext for MacBookPro14,2
+    Enabled Internal Mic-
+    
+    
 - **02-19-2023**
 
 	Update to **macOS Big Sur 11.7.4 (20G1120)**
@@ -15,12 +21,16 @@ English
     - Update [kext] `HibernationFixup` v. 1.4.8
     - Update [kext] `WhateverGreen` v. 1.6.4
 
+
+
 - **02-11-2023**
 
 	Update to **macOS Big Sur 11.7.3 (20G1116)**
 
 	**Update**
 	- Update [kext] stripped `AirportItlwm_Big_Sur` v. 2.2.0 beta (commit ddd2768)
+
+
 
 - **01-24-2023**
 
@@ -29,9 +39,13 @@ English
 		- Optimized `Intel(R) HD Graphics 620` support editing many entries
 		- Added `devide-id` entry for `Intel(R) Sunrise Point-LP High Defintion Audio Controller`
 
+
+
 - **01-23-2023**
 
 	Update `Readme` file: added a new section for setting up `BenQ PD2500Q` speakers as default audio output device
+
+
 
 - **01-18-2023**
 
@@ -46,6 +60,8 @@ English
     **OpenCore**
     - Update `config.plist` to support `OpenCore` v. 0.8.8
     - Update for not showing `EFI` partition folder in pickup boot menu since now the magic Acidanthera sequence from OpenCore (v. `0.8.8+`) files is removed (dual boot with Windows is preserved with no issues)
+
+
 
 - **01-06-2023**
 
@@ -62,6 +78,8 @@ English
     **OpenCore**
     - Update `config.plist` to support `OpenCore` v. 0.8.7
 
+
+
 - **10-31-2022**
 
 	Update to **macOS Big Sur 11.7.1 (20G918)**
@@ -69,6 +87,8 @@ English
 	**Update**
 	- Update [kext] `FakePCIID` v. 1.3.16
 	- Update [kext] `FakePCIID_Intel_HDMI_Audio` v. 1.3.16
+
+
 
 - **10-06-2022**
 
@@ -84,9 +104,13 @@ English
     - No change needed for `config.plist` to support `OpenCore` v. 0.8.5
     - Reduced warning messages number for `Intel(R) HD Graphics 620` in system log during boot phase: they are correct/normal, however eliminating those warnings reduces log-file size thus reducing slightly boot loading time.
 
+
+
 - **09-16-2022**
 
 	Update to **macOS Big Sur 11.7 (20G817)**
+
+
 
 - **09-11-2022**
 
@@ -112,17 +136,25 @@ English
 	**OpenCore**
 	- Update `config.plist` to support `OpenCore` v. 0.8.4
 
+
+
 - **02-16-2022**
 
 	Updated to **macOS Catalina 10.15.7 (19H1715)** latest Security Update
+
+
 
 - **02-02-2022**
 
 	Updated to **macOS Catalina 10.15.7 (19H1713)** latest Security Update
 
+
+
 - **12-22-2021**
 
 	Updated BIOS to BNKBL357.86A.0085.2021.0901.1844
+
+
 
 - **11-10-2021**
 
@@ -130,6 +162,8 @@ English
     - Update [kext] stripped `AirportItlwm_Catalina` v. 2.1.0 beta (commit 576b9e1): `iwm` support for LDPC in 11n/11ac mode and better Bluetooth/WiFi coex
     - Update [kext] stripped `IntelBluetoothFirmware` v. 2.1.0 beta (commit a9217e8): updated firmware for Intel Bluetooth 8265 (Build `REL1221` Release version `22.50.0.4`)
     - Update [kext] stripped `IntelBluetoothInjector` v. 2.1.0 beta (commit a9217e8): updated firmware for Intel Bluetooth 8265 (Build `REL1221` Release version `22.50.0.4`)
+
+
 
 - **10-31-2021**
 
@@ -141,6 +175,8 @@ English
 	- Update [kext] stripped `IntelBluetoothInjector` v. 2.0.1
 
 	Update **Safari** v. 15.1
+
+
 
 - **09-10-2021**
 
@@ -161,6 +197,8 @@ English
 
 	Update to **macOS Catalina 10.15.7 (19H1323)** latest Security Update
 
+
+
 - **08-21-2021**
 
 	**Update**
@@ -168,11 +206,15 @@ English
 	- Update [kext] stripped `IntelBluetoothFirmware` v. 2.0.0 beta (commit dbe8fcc)
 	- Update [kext] stripped `IntelBluetoothInjector` v. 2.0.0 beta (commit dbe8fcc)
 
+
+
 - **06-27-2021**
 
 	**Update**
 	- Revert back to [kext] stripped `IntelBluetoothFirmware` v. 1.1.3 stable (commit 562de1c): Magic Mouse 2 showed some lags with v. 2.0.0 beta (commit beb5224)
 	- Revert back to [kext] stripped `IntelBluetoothInjector` v. 1.1.3 stable (commit 562de1c)
+
+
 
 - **06-25-2021**
 
@@ -182,6 +224,8 @@ English
 	- Update [kext] stripped `AirportItlwm_Catalina` v. 2.0.0 beta (commit 93bf81f)
 	- Update [kext] stripped `IntelBluetoothFirmware` v. 2.0.0 beta (commit beb5224)
 	- Update [kext] stripped `IntelBluetoothInjector` v. 2.0.0 beta (commit beb5224)
+
+
 
 - **05-31-2021**
 
@@ -195,6 +239,8 @@ English
 	**OpenCore**
 	- Update [driver] `HfsPlus.efi` from latest fw (IM201 and IM161)
 	- Update `config.plist`: Improved PCI Devices information coherence
+
+
 
 - **05-30-2021**
 
@@ -213,6 +259,8 @@ English
     **OpenCore**
     - Update `config.plist` to support `OpenCore` v. 0.6.9
 
+
+
 - **05-27-2021**
 
 	**Update**
@@ -220,14 +268,20 @@ English
 	- Add `SSDT-IGMM.aml`: 
 		- assigned ACPI device name `IGMM` to undefined PCI device `0x00080000` (Intel Corporation Core Processor Gaussian Mixture Model)
 		- now `PCI0.IGMM@8` is properly populated in IORegistryExplorer app
-		
+
+
+  
 - **05-26-2021**
 
 	Update **Safari** v. 14.1.1
 
+
+
 - **05-05-2021**
 
 	Update **Safari**  Security Patch for WebKit
+
+
 
 - **04-28-2021**
 
@@ -241,7 +295,9 @@ English
 		- Removed `-igfxtypec` boot parameter since it determines slow shutdown/reboot
 	
 	Added a new section in `Readme.md` for making macOS zsh Terminal colorful (therefore improving readability in Terminal.app)
-	
+
+
+ 
 - **04-18-2021**
 
 	**Update**
@@ -251,12 +307,16 @@ English
 	- Update `config.plist`:
 		- Added `-igfxtypec` boot parameter to force DP connectivity for Type-C platforms
 
+
+
 - **04-11-2021**
 
 	**Update**
 	- Update `SSDT-INIT.aml` for enabling with native approach secondary `XHCI` interface with USB type-C port
 	
 	Totally fixed issue described [here](https://github.com/profzei/NUC7i3BNH#usb-port-mapping-on-nuc-chassis) for my QHD monitor **BenQ PD2500Q** (resolution: 2048x1152 hiDPI for optimal readability)
+
+
 
 - **04-09-2021**
 
@@ -272,7 +332,9 @@ English
 	**OpenCore**
 	- Update `config.plist`:
 		- Added `compatibility` key for `PciRoot(0x0)/Pci(0x14,0x2)` with value `pci8086,9d21` resulting to vanilla detection for thermal zone (pair with `SSDT-PM.aml` update)
-		
+
+
+  
 - **04-08-2021**
 
 	**Update**
@@ -285,7 +347,9 @@ English
 	**OpenCore**
 	- Update `config.plist`:
 		- Added `H_EC._STA,0,N to H_EC.XSTA,0,N` binary patch (pair with `SSDT-EC-USBX.aml`)
-	
+
+
+ 
 - **04-06-2021**
 
 	**Update**
@@ -300,6 +364,8 @@ English
 	- Update `MaciASL` v. 1.6.0
 	
 	Since `SMCSuperIO.kext` from official v. 1.2.2 release seems to be [bugged](https://github.com/osy/HaC-Mini/issues/553#issuecomment-814170132) reporting always `0 rpm` for `FAN` sensor, it is replaced with old version taken from previous working beta release
+
+
 
 - **04-05-2021**
 
@@ -320,7 +386,9 @@ English
 	Enabling **GUI** for `OpenCanopy` in `config.plist`:
 		- `Misc -> Boot -> PickerMode` key set to `External` (previous value was `Builtin`)
 		- `Misc -> Boot -> PickerVariant` key set to `Modern` (previous value was `Auto`)
-		
+
+
+  
 - **04-03-2021**
 
 	**Update**
@@ -354,6 +422,8 @@ English
 			- enabled `framebuffer-portcount` property
 		- fixed layout for my keyboard
 
+
+
 - **04-02-2021**
 
 	**Update**
@@ -377,7 +447,9 @@ English
 			- enabled `framebuffer-patch-enable` property
 	
 	After extensive tests, there is no real benefit on enabling `ALSD`  and `PNLF` devices through `SSDT-ALSD.aml` and `SSDT-PNLF.aml`: I tried since my 2k monitor **BenQ PD2500Q** is equipped with an Ambient Light Sensor.
-	
+
+
+ 
 - **04-01-2021**
 
 	**Update**
@@ -389,7 +461,9 @@ English
 	- Update `config.plist`:
 		- Added PCI devices properties 
 		- Updated `Kernel -> Quirks -> XhciPortLimit` key: now set @ `false` (previous value was `true`) according to new USB config 
-	
+
+
+ 
 - **03-31-2021**
 
 	**Update**
@@ -400,16 +474,22 @@ English
 	- Add `SSDT-SHARE.aml`
 	- Add `SSDT-VDEV.aml` adding various virtual devices for macOS compatibility
 
+
+
 - **03-30-2021**
 
 	Initial setup for GitHub repo:
 	- Update `Changelog`
 	- Update `Readme`
-		
+
+
+  
 - **03-29-2021**
 
 	Getting complete **ACPI** dump loading `SysReport` quirk in `config.plist`
-	
+
+
+ 
 - **03-21-2021**
 
 	- Update **Safari** to v. 14.0.3
