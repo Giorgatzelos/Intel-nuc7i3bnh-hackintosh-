@@ -114,8 +114,8 @@ See [**Current status**](Changelog.md)
 
 ## Status
 <summary><strong>Final with USB Port mapping [USBMap.kext]</strong></summary>
-## USB Port Mapping on NUC chassis
 
+## USB Port Mapping on NUC chassis
 <p align="center">
 <img src="Wiki/Images/Specifications.png" width="100%" alt="" />
 </p>
